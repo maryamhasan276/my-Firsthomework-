@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220016290912",
+    "project_id": "first-home-9436e",
+    "storage_bucket": "first-home-9436e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220016290912:android:a8d9ad679c9edb0964a705",
+        "android_client_info": {
+          "package_name": "com.example.firsthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220016290912-esbsdgbmr7urt1lsrsu6amcfcdoj1n2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsajH9p9XPBqkNU_VGg5UZqFdPyGY15g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220016290912-esbsdgbmr7urt1lsrsu6amcfcdoj1n2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
